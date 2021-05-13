@@ -1,0 +1,16 @@
+.button-container {
+  height: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.call-elevator-button {
+  width: 60%;
+  height: 50%;
+  border-radius: 6px 6px 6px 6px;
+  background-color: rgb(71, 160, 71);
+  font-size: 0.8vw;
+  color: white;
+  font-weight: bold;
+}

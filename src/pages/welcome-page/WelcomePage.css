@@ -1,0 +1,66 @@
+.welcome-wrapper {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: rgb(41, 39, 39);
+  font-family: 'Dela Gothic One', cursive;
+}
+
+.welcome-title {
+  height: 15vh;
+  font-size: 4vw;
+  color: white;
+}
+
+.welcome-sub-title {
+  height: 10vh;
+  font-size: 2.5vw;
+  color: white;
+}
+
+.input-wrapper {
+  height: 10vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.input-floors {
+  text-align: center;
+  height: 2.5vw;
+  width: 12vw;
+  margin-right: 1vw;
+  font-size: 0.8vw;
+  background-color: rgb(180, 170, 170);
+  font-family: 'Dela Gothic One', cursive;
+}
+
+.input-elevators {
+  text-align: center;
+  height: 2.5vw;
+  width: 12vw;
+  margin-left: 1vw;
+  font-size: 0.8vw;
+  background-color: rgb(180, 170, 170);
+  font-family: 'Dela Gothic One', cursive;
+}
+
+::placeholder {
+  color: black;
+}
+
+.welcome-button {
+  width: 12vw;
+  font-weight: bold;
+  font-size: 1.2vw;
+  font-family: 'Dela Gothic One', cursive;
+  background-color: brown;
+  padding: 0.5%;
+}
+
+.error {
+  font-size: 2vw;
+  color: white;
+}

@@ -1,0 +1,17 @@
+.elevator-wrapper {
+  width: 20%;
+  display: flex;
+  justify-content: center;
+}
+
+.elevator {
+  height: 100px;
+  width: 7%;
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+
+.elevator-icon {
+  height: 100%;
+}
