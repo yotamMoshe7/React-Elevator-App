@@ -12,7 +12,7 @@ https://manage-elevator-app.herokuapp.com/
 
 ## Elevators Page Functionality:
 
-![Elevator Page](https://user-images.githubusercontent.com/57434735/118123097-6bfff880-b3fc-11eb-8b48-4c232a127335.PNG)
+![Elevator Page 2](https://user-images.githubusercontent.com/57434735/118123348-ca2cdb80-b3fc-11eb-9426-842207d71aa8.PNG)
 
 1. Order an elevator to each floor.
 2. When ordering an elevator, the closest elevator to the floor will be order.
