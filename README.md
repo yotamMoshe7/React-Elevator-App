@@ -5,9 +5,10 @@ https://manage-elevator-app.herokuapp.com/
 
 ## Welocome Functionality:
 
+![Welcome Page](https://user-images.githubusercontent.com/57434735/118123013-4d016680-b3fc-11eb-9df0-96fa33db88f0.PNG)
+
 1. Choose the elevator number in the building.
 2. Choose the floor number in the building.
-‏‏לכידה
 
 ## Elevators Page Functionality:
 
