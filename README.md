@@ -20,7 +20,7 @@ https://manage-elevator-app.herokuapp.com/
 6. The elevator moves across the floors smoothly.
 7. The elevator makes a sound as it completes a task.
 
-‏‏לכידה2
+![Elevator Page](https://user-images.githubusercontent.com/57434735/118123097-6bfff880-b3fc-11eb-8b48-4c232a127335.PNG)
 
 ## For running the app in Visual Studio just type the commands:
 1. npm install.
