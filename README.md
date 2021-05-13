@@ -12,6 +12,8 @@ https://manage-elevator-app.herokuapp.com/
 
 ## Elevators Page Functionality:
 
+![Elevator Page](https://user-images.githubusercontent.com/57434735/118123097-6bfff880-b3fc-11eb-8b48-4c232a127335.PNG)
+
 1. Order an elevator to each floor.
 2. When ordering an elevator, the closest elevator to the floor will be order.
 3. The color of the elevator order buttons will change depending on the elevator status (order, wait, arrival).
@@ -19,8 +21,6 @@ https://manage-elevator-app.herokuapp.com/
 5. When all the elevators are occupied, the software knows how to wait for the elevator to become available and send it to perform the request.
 6. The elevator moves across the floors smoothly.
 7. The elevator makes a sound as it completes a task.
-
-![Elevator Page](https://user-images.githubusercontent.com/57434735/118123097-6bfff880-b3fc-11eb-8b48-4c232a127335.PNG)
 
 ## For running the app in Visual Studio just type the commands:
 1. npm install.
