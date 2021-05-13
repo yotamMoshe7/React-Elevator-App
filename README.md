@@ -1,5 +1,6 @@
-React-Elevator-Managing-App
-Link to app
+# React-Elevator-Managing-App
+
+## Link to app
 https://manage-elevator-app.herokuapp.com/
 
 In the welocome page yoy can:
