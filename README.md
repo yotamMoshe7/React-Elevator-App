@@ -25,3 +25,5 @@ https://manage-elevator-app.herokuapp.com/
 ## For running the app in Visual Studio just type the commands:
 1. npm install.
 2. npm start.
+
+## Enjoy!
